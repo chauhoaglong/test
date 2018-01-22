@@ -1,0 +1,104 @@
+// ******************************************************************************
+// * This is an automatically generated file containing the ribbon resource for *
+// * your application.                                                          *
+// ******************************************************************************
+
+#include ".\RibbonIDs.h"
+
+STRINGTABLE 
+BEGIN
+    IDM_DRAWRECTANGLE_LabelTitle_RESID L"Rectangle" /* LabelTitle IDM_DRAWRECTANGLE_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_DRAWRECTANGLE_LabelDescription_RESID L"Draw Rectangle" /* LabelDescription IDM_DRAWRECTANGLE_LabelDescription_RESID: (null) */
+END
+
+IDM_DRAWRECTANGLE_LargeImages_RESID    IMAGE    "rectangle.bmp" /* LargeImages IDM_DRAWRECTANGLE_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    IDM_DRAWELLIPSE_LabelTitle_RESID L"Ellipse" /* LabelTitle IDM_DRAWELLIPSE_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_DRAWELLIPSE_LabelDescription_RESID L"Draw Ellipse" /* LabelDescription IDM_DRAWELLIPSE_LabelDescription_RESID: (null) */
+END
+
+IDM_DRAWELLIPSE_LargeImages_RESID    IMAGE    "ellipse.bmp" /* LargeImages IDM_DRAWELLIPSE_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    IDM_DRAWLINE_LabelTitle_RESID L"Line" /* LabelTitle IDM_DRAWLINE_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_DRAWLINE_LabelDescription_RESID L"Draw Line" /* LabelDescription IDM_DRAWLINE_LabelDescription_RESID: (null) */
+END
+
+IDM_DRAWLINE_LargeImages_RESID    IMAGE    "line.bmp" /* LargeImages IDM_DRAWLINE_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    IDM_EXIT_LabelTitle_RESID L"Exit" /* LabelTitle IDM_EXIT_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_EXIT_LabelDescription_RESID L"Exit Description" /* LabelDescription IDM_EXIT_LabelDescription_RESID: (null) */
+END
+
+IDM_EXIT_LargeImages_RESID    IMAGE    "new.bmp" /* LargeImages IDM_EXIT_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    ID_CMD_TAB_MAIN_LabelTitle_RESID L"Draw" /* LabelTitle ID_CMD_TAB_MAIN_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    ID_CMD_GROUP_DRAW_LabelTitle_RESID L"Draw style" /* LabelTitle ID_CMD_GROUP_DRAW_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    ID_CMD_GROUP_EXIT_LabelTitle_RESID L"Exit" /* LabelTitle ID_CMD_GROUP_EXIT_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_NEW_LabelTitle_RESID L"New" /* LabelTitle IDM_NEW_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_NEW_LabelDescription_RESID L"Create new paint" /* LabelDescription IDM_NEW_LabelDescription_RESID: (null) */
+END
+
+IDM_NEW_LargeImages_RESID    IMAGE    "new.bmp" /* LargeImages IDM_NEW_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    IDM_OPEN_LabelTitle_RESID L"Open" /* LabelTitle IDM_OPEN_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_OPEN_LabelDescription_RESID L"Open an exist file" /* LabelDescription IDM_OPEN_LabelDescription_RESID: (null) */
+END
+
+IDM_OPEN_LargeImages_RESID    IMAGE    "open.bmp" /* LargeImages IDM_OPEN_LargeImages_RESID: (null) */
+STRINGTABLE 
+BEGIN
+    ID_CMD_TAB_FILE_LabelTitle_RESID L"File" /* LabelTitle ID_CMD_TAB_FILE_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    ID_CMD_GROUP_FILE_LabelTitle_RESID L"File system" /* LabelTitle ID_CMD_GROUP_FILE_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    InternalCmd2_LabelTitle_RESID L"Label:InternalCmd2" /* LabelTitle InternalCmd2_LabelTitle_RESID: (null) */
+END
+
+APPLICATION_RIBBON    UIFILE    "Ribbon.bml"

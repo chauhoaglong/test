@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Application xmlns='http://schemas.microsoft.com/windows/2009/Ribbon'>
+  <Application.Commands>
+
+    <Command Name="cmdButtonRectangle"
+
+              Symbol="IDM_DRAWRECTANGLE"
+
+              LabelTitle="Rectangle"
+
+              LabelDescription="Draw Rectangle">
+      <Command.LargeImages>
+        <Image>rectangle.bmp</Image>
+      </Command.LargeImages>
+    </Command>
+
+    <Command Name="cmdButtonEllipse"
+
+            Symbol="IDM_DRAWELLIPSE"
+
+            LabelTitle="Ellipse"
+
+            LabelDescription="Draw Ellipse">
+      <Command.LargeImages>
+        <Image>ellipse.bmp</Image>
+      </Command.LargeImages>
+    </Command>
+
+    <Command Name="cmdButtonLine"
+
+            Symbol="IDM_DRAWLINE"
+
+            LabelTitle="Line"
+
+            LabelDescription="Draw Line">
+      <Command.LargeImages>
+        <Image>line.bmp</Image>
+      </Command.LargeImages>
+    </Command>
+
+     <Command Name="cmdButtonExit"
+
+            Symbol="IDM_EXIT"
+
+            LabelTitle="Exit"
+
+             LabelDescription="Exit Description">
+       <Command.LargeImages>
+         <Image>new.bmp</Image>
+       </Command.LargeImages>
+    </Command>
+
+    <Command Name="cmdTabDraw"
+
+            Symbol="ID_CMD_TAB_MAIN"
+
+            LabelTitle="Draw">
+    </Command>
+
+     <Command Name="cmdGroupDraw"
+
+            Symbol="ID_CMD_GROUP_DRAW"
+
+            LabelTitle="Draw style">
+    </Command>
+
+      <Command Name="cmdGroupExit"
+
+            Symbol="ID_CMD_GROUP_EXIT"
+
+            LabelTitle="Exit">
+      </Command>
+    
+  <Command Name="cmdButtonNew"
+
+              Symbol="IDM_NEW"
+
+              LabelTitle="New"
+
+              LabelDescription="Create new paint">
+      <Command.LargeImages>
+        <Image>new.bmp</Image>
+      </Command.LargeImages>
+    </Command>
+
+    <Command Name="cmdButtonOpen"
+
+            Symbol="IDM_OPEN"
+
+            LabelTitle="Open"
+
+            LabelDescription="Open an exist file">
+      <Command.LargeImages>
+        <Image>open.bmp</Image>
+      </Command.LargeImages>
+    </Command>
+
+    <Command Name="cmdTabFile"
+
+            Symbol="ID_CMD_TAB_FILE"
+
+            LabelTitle="File">
+    </Command>
+
+     <Command Name="cmdGroupFile"
+
+            Symbol="ID_CMD_GROUP_FILE"
+
+            LabelTitle="File system">
+    </Command>
+
+
+</Application.Commands>
+
+<Application.Views>
+<Ribbon>
+  <Ribbon.Tabs>
+    <Tab CommandName="cmdTabFile">
+
+      <Group CommandName="cmdGroupFile" SizeDefinition="TwoButtons">
+            <Button CommandName="cmdButtonNew" />
+            <Button CommandName="cmdButtonOpen" />
+      </Group>
+      <Group CommandName="cmdGroupExit" SizeDefinition="OneButton">
+            <Button CommandName="cmdButtonExit" />
+      </Group>
+    </Tab>
+    <Tab CommandName="cmdTabDraw">
+
+      <Group CommandName="cmdGroupDraw" SizeDefinition="ThreeButtons">
+            <Button CommandName="cmdButtonLine" />
+            <Button CommandName="cmdButtonRectangle" />
+            <Button CommandName="cmdButtonEllipse" />
+            
+      </Group>
+    </Tab>
+  </Ribbon.Tabs>
+</Ribbon>
+</Application.Views>
+</Application>

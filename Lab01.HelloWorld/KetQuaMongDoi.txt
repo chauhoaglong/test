@@ -1,0 +1,7 @@
+Biet chay chuong trình Visual Studio
+Biet tao chuong trình moi (HelloWorld)
+Biet built chuong trình
+Biet tat chuong trình hoàn toàn
+Hiau cách tao file .exe...
+Biat clean chuong trình
+
