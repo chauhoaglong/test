@@ -5,9 +5,12 @@ Email: chauhoaglong@gmail.com
 
 **Project:**
 Chương trình thống kê chi tiêu hàng ngày. Chương trình có các chức năng sau
-A.	Thêm vào danh sách một mục chi.
+1. Thêm vào danh sách một mục chi.
+
 	Gồm 3 thành phần: Loại chi tiêu, nội dung chi, số tiền.
+	
 	Ví dụ: Ăn uống, Ăn trưa, 15000.
+	
 	Loại chi tiêu chỉ gồm các loại sau đây: 
 		+ Ăn uống, 
 		+ Di chuyển (bus, xăng, taxi…), 
@@ -15,19 +18,20 @@ A.	Thêm vào danh sách một mục chi.
 		+ Xe cộ (xăng, vá xe, bảo dưỡng…), 
 		+ Nhu yếu phẩm (xà bông, sữa tắm…), 
 		+ Dịch vụ (intenet, thẻ cảo điện thoại…).
-B.	Xem lại danh sách các mục chi của mình, lưu và nạp vào tập tin text.
-C.	Khi chương trình chạy lên tự động nạp danh sách chi tiêu từ tập tin text lên và hiển thị(ListView)
-D.	Khi chương trình thoát thì tự động lưu danh sách mới vào tập tin text.
-E.	Vẽ biểu đồ nhằm biểu diễn trực quan tỉ lệ tiêu xài.
-F.	Bảng chú giải về thông tin biểu đồ.
+		
+2.	Xem lại danh sách các mục chi của mình, lưu và nạp vào tập tin text.
+3.	Khi chương trình chạy lên tự động nạp danh sách chi tiêu từ tập tin text lên và hiển thị(ListView)
+4.	Khi chương trình thoát thì tự động lưu danh sách mới vào tập tin text.
+5.	Vẽ biểu đồ nhằm biểu diễn trực quan tỉ lệ tiêu xài.
+6.	Bảng chú giải về thông tin biểu đồ.
 
 **Các chức năng thực hiện được.**
-A. Thêm vào danh sách một mục chi.
-B. Xem lại danh sách các mục chi của mình, lưu và nạp vào tập tin text.
-C. Khi chương trình chạy lên tự động nạp danh sách chi tiêu từ tập tin text lên và hiển thị(ListView)
-D. Khi chương trình thoát thì tự động lưu danh sách mới vào tập tin text.
-E. Vẽ biểu đồ nhằm biểu diễn trực quan tỉ lệ tiêu xài.
-F.Bảng chú giải về thông tin biểu đồ.
+1. Thêm vào danh sách một mục chi.
+2. Xem lại danh sách các mục chi của mình, lưu và nạp vào tập tin text.
+3. Khi chương trình chạy lên tự động nạp danh sách chi tiêu từ tập tin text lên và hiển thị(ListView)
+4. Khi chương trình thoát thì tự động lưu danh sách mới vào tập tin text.
+5. Vẽ biểu đồ nhằm biểu diễn trực quan tỉ lệ tiêu xài.
+6.Bảng chú giải về thông tin biểu đồ.
 
 **Các chức năng thêm.**
 Reset lại toàn bộ thông tin.
