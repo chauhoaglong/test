@@ -2,6 +2,7 @@
 1. Họ và tên: Châu Hoàng Long
 2. MSSV: 1512292
 3. Email: chauhoaglong@gmail.com
+
 ##**Các chức năng hoàn thành**
 Xây dựng chương trình vẽ 5 loại hình cơ bản:
 1. Ðường thẳng (line).	
@@ -12,7 +13,9 @@ Xây dựng chương trình vẽ 5 loại hình cơ bản:
 6. Sử dụng mẫu thiết kế prototypes để tạo ra hàng mẫu nhằm vẽ xem trước, sử dụng mẫu thiết kế Factory để tạo đối tượng.
 7. Tạo giao diện bằng Ribbon
 8. Dùng hàm Bitblt và thư viện GDI+ để vẽ
+
 **Link youtube demo:** 
 https://youtu.be/M-QUaxU7ngM
+
 **Link bitbucket:** 
 https://bitbucket.org/chauhoanglong/windev/src
