@@ -2,7 +2,7 @@
 Họ và tên: Châu Hoàng Long
 MSSV: 1512292
 Email: chauhoaglong@gmail.com
-\r\n**Các chức năng hoàn thành**
+**Các chức năng hoàn thành**
 Xây dựng chương trình vẽ 5 loại hình cơ bản:
 1. Ðường thẳng (line).
 2. Hình chữ nhật (rectangle). Nếu giữ phím Shift sẽ vẽ hình vuông (Square)
