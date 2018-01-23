@@ -38,11 +38,11 @@ Reset lại toàn bộ thông tin.
 Chức năng Back (quay lại trạng thái trước đó (nếu có)) và Prev(đến trạng thái sau đó (nếu có))
 
 **Hướng dẫn sử dụng**
-A.Khởi động chương trình.-> Chọn loại chi tiêu(combobox) (phải chọn, không chọn báo lỗi)
-Nhập nội dung chi tiêu(Không được bỏ trống nếu bỏ sẽ báo lỗi).
-Nhập số tiền chi(Không được nhập chữ).
-Sau đó chọn thêm , thông tin sẽ lưu vào listview. Chương trình tự động vẽ biểu đồ Pie chart và tính tổng số tiền chi.
-Chương trình sẽ kết thúc khi người dùng muốn và thoát. Toàn bộ thông tin sẽ lưu vào file và khi khởi động lại chương trình sẽ load dữ liệu từ file thể hiện lên listview và tính tổng tiền chi, vễ biểu đồ.
+1.Khởi động chương trình.-> Chọn loại chi tiêu(combobox) (phải chọn, không chọn báo lỗi)
+2.Nhập nội dung chi tiêu(Không được bỏ trống nếu bỏ sẽ báo lỗi).
+3.Nhập số tiền chi(Không được nhập chữ).
+4.Sau đó chọn thêm , thông tin sẽ lưu vào listview. Chương trình tự động vẽ biểu đồ Pie chart và tính tổng số tiền chi.
+5.Chương trình sẽ kết thúc khi người dùng muốn và thoát. Toàn bộ thông tin sẽ lưu vào file và khi khởi động lại chương trình sẽ load dữ liệu từ file thể hiện lên listview và tính tổng tiền chi, vễ biểu đồ.
 
 Chương trình được viết trên môi trường Microsoft Visual Studio 2017.
 
