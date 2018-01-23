@@ -10,4 +10,5 @@ Xây dựng chương trình vẽ 5 loại hình cơ bản:
 Cho phép chọn loại hình cần vẽ. Có thể hiện dang chọn menu nào.
 Bọc tất cả các đối tượng vẽ vào các lớp model. Sử dụng đa xạ để cài đặt việc quản lý các đối tượng và vẽ hình. 
 ##**Link youtube demo:**https://youtu.be/0gx-e9o5X4E
+
 ##**Link bitbucket:**https://bitbucket.org/chauhoanglong/windev/src
